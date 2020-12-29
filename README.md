@@ -19,8 +19,7 @@
   [Questions](#Questions)
   
 ## Description
-  This is an application created by following the Javascript 30 instruction series by Wes Bos. The purpose of the exercise is 
-  . To find out more about the instruction series visit the site at [Wes Bos JavaScript 30](https://javascript30.com/)
+  This is an application created by following the Javascript 30 instruction series by Wes Bos. The purpose of the exercise is get more experience with progamming and calculating on-scroll animations, window events and debouncing. To find out more about the instruction series visit the site at [Wes Bos JavaScript 30](https://javascript30.com/)
 
 ## Installation
   Simply clone the repo locally.
@@ -56,6 +55,5 @@ SOFTWARE.
   Email: tbbragg83@gmail.com
   Github: [TBragg800](http://github.com/TBragg800)
 
-## Screenshot of deployed application
-![](./assets/Slide-in-on-Scroll.png)
+
 
